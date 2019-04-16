@@ -3,16 +3,7 @@
     <div id="footer-links">
       <div class="footer-subtitle">友情链接</div>
       <ul id="friendlink-items">
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
-        <li><a>NOW直播</a></li>
+
       </ul>
     </div>
     <div id="footer-contact">

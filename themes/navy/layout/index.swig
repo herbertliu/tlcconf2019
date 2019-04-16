@@ -1,7 +1,7 @@
 <header id="banner">
   <div class="wrapper">
     <div class="inner">
-      <div id="banner-bio">201９年8月1７日·深圳科兴科学园国际会议中心</div>
+      <div id="banner-bio">2019年8月17日·深圳科兴科学园国际会议中心</div>
       <div id="banner-buttons">
         <a href="https://www.bagevent.com/widget/ticket/829116" class="buy-ticket" target="_blank">立即购票</a>
       </div>
