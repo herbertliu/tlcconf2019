@@ -1,15 +1,9 @@
 <header id="banner">
   <div class="wrapper">
     <div class="inner">
-      <div id="banner-bio">2018年8月18日·深圳科兴科学园国际会议中心</div>
+      <div id="banner-bio">201９年8月1７日·深圳科兴科学园国际会议中心</div>
       <div id="banner-buttons">
         <a href="https://www.bagevent.com/widget/ticket/829116" class="buy-ticket" target="_blank">立即购票</a>
-      </div>
-      <div id="live">
-        <a href="https://ke.qq.com/course/328075?tuin=c5418f3a" class="buy-ticket" target="_blank"><img src="https://qpic.url.cn/feeds_pic/Q3auHgzwzM4wL3ExSk73PJ1A9Wd0xbd2bnyWH9ibycFjFO84m5HEiccA/"></a>
-      </div>
-      <div id="resources">
-        <a href="https://ivweb.io/topic/5b7bfb06ece8df44818b3d60" target="_blank">精彩回顾</a><a href="https://github.com/iv-web/ppts" target="_blank">讲师PPT</a><a href="https://ke.qq.com/course/328075?tuin=c5418f3a" target="_blank">视频回放</a>
       </div>
     </div>
   </div>
@@ -27,7 +21,7 @@
     <div class="inner">
       <div id="subject-wrap">
 
-      </div>  
+      </div>
     </div>
   </div>
 </div>
@@ -74,9 +68,9 @@
       <div id="partner-wrap">
         <div class="partner-title"></div>
         <ul id="sponsor-items">
-                         
+
         </ul>
-        <div class="view-all"><a href="http://cn.mikecrm.com/ivrfype" target="_blank">成为赞助商</a></div>
+        <div class="view-all"><a href="http://rgoivhzvtnwm0mi1.mikecrm.com/xxbDAdN" target="_blank">成为赞助商</a></div>
       </div>
     </div>
   </div>
