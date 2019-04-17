@@ -927,17 +927,11 @@ body {
   }
 }
 #preview-wrap .preview-banner {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: box;
-  display: flex;
-  -webkit-box-pack: center;
-  -moz-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
+  position: relative;
+  overflow: auto;
+}
+#preview-wrap .preview-banner li {
+  float: left;
 }
 #preview-wrap .preview-banner img {
   width: 100%;
