@@ -4,6 +4,8 @@
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="https://unpkg.com/swig@1.4.2/dist/swig.min.js"></script>
 <script src="//res.wx.qq.com/open/js/jweixin-1.2.0.js"></script>
+{{ js('js/unslider.min.js') }}
+{{ js('js/slider.js') }}
 {{ js('js/lang_select') }}
 {{ js('js/toc') }}
 {{ js('js/mobile_nav') }}

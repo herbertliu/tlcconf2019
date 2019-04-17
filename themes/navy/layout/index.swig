@@ -56,7 +56,18 @@
       <div id="preview-wrap">
         <div class="preview-title"></div>
         <div class="preview-banner">
-          <a href="http://tlc.ivweb.io/" target="_blank"><img src="https://qpic.url.cn/feeds_pic/ajNVdqHZLLASNiajAYDYP8ic86yWKC2tHgFvVscFIog7E2lG4dW9icrTA/" /></a>
+          <ul>
+            <li>
+                <a href="http://tlc.ivweb.io/" target="_blank">
+                    <img src="https://qpic.url.cn/feeds_pic/ajNVdqHZLLASNiajAYDYP8ic86yWKC2tHgFvVscFIog7E2lG4dW9icrTA/" />
+                </a>
+            </li>
+            <li>
+                <a href="https://2018.tlc.ivweb.io/" target="_blank">
+                    <img src="https://qpic.url.cn/feeds_pic/Q3auHgzwzM6XkFAiaAOib8cgCDahFy7O2eeryicQPBk2KrWAZ7sHBs4aw/" />
+                </a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
