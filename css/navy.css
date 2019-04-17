@@ -671,7 +671,7 @@ body {
 #subject-wrap {
   text-align: center;
   padding-top: 37px;
-  padding-bottom: 20px;
+  padding-bottom: 120px;
   margin: 0px auto;
 }
 @media screen and (min-width: 769px) {
@@ -758,9 +758,8 @@ body {
   .subject-branch {
     float: left;
     margin-right: 16px;
-    margin-bottom: 128px;
     height: 264px;
-    width: 388px;
+    width: 590px;
   }
 }
 .subject-branch .subject-branch-title {
@@ -794,7 +793,7 @@ body {
   }
 }
 @media screen and (min-width: 769px) {
-  .subject-branch:last-child {
+  .subject-branch:nth-child(2n) {
     margin-right: 0px;
   }
 }
