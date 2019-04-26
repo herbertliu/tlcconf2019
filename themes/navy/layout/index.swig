@@ -3,7 +3,7 @@
     <div class="inner">
       <div id="banner-bio">2019年8月17日·深圳科兴科学园国际会议中心</div>
       <div id="banner-buttons">
-        <a href="https://www.bagevent.com/widget/ticket/829116" class="buy-ticket" target="_blank">立即购票</a>
+        <a href="https://www.bagevent.com/event/2596495" class="buy-ticket" target="_blank">立即购票</a>
       </div>
     </div>
   </div>
@@ -81,7 +81,7 @@
         <ul id="sponsor-items">
 
         </ul>
-        <div class="view-all"><a href="http://rgoivhzvtnwm0mi1.mikecrm.com/xxbDAdN" target="_blank">成为赞助商</a></div>
+        <div class="view-all"><a href="http://tlc-2019.mikecrm.com/xxbDAdN" target="_blank">成为赞助商</a></div>
       </div>
     </div>
   </div>

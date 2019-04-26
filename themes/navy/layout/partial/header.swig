@@ -8,14 +8,14 @@
         {{ header_menu('main-nav') }}
       </nav>
       <div id="buy-ticket">
-        <a href="https://www.bagevent.com/widget/ticket/829116" class="buy-ticket-link" target="_blank">立即购票</a>
+        <a href="https://www.bagevent.com/event/2596495" class="buy-ticket-link" target="_blank">立即购票</a>
       </div>
       <div id="lang-select-wrap">
         <label id="lang-select-label"><i class="fa fa-globe"></i><span>简体中文</span></label>
         <select id="lang-select" data-canonical="">
-          
+
             <option value="zh-cn" selected>简体中文</option>
-          
+
         </select>
       </div>
       <a id="mobile-nav-toggle">

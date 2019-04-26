@@ -7,7 +7,7 @@
           <div class="desc">现在筹划中的专题公开招募演讲嘉宾，以下是征集形式与具体要求。</div>
         </div>
       </div>
-    </div>        
+    </div>
     <div class="tab-content">
       <div class="wrapper">
         <div class="inner">
@@ -22,10 +22,10 @@
             <div id="section-wrapper">
 
             </div>
-            <a class="apply-button" href="http://cn.mikecrm.com/8srVvDS" target="_blank">申请成为讲师</a>                            
+            <a class="apply-button" href="http://tlc-2019.mikecrm.com/OdPmiTB" target="_blank">申请成为讲师</a>
           </div>
         </div>
-      </div>  
+      </div>
     </div>
   </div>
 </div>
