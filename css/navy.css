@@ -1214,7 +1214,7 @@ body {
   }
 }
 .speaker-wrap .tab-header .inner .tab-scroller-wrap .tab-items {
-  width: 756px;
+  width: 910px;
 }
 @media screen and (min-width: 769px) {
   .speaker-wrap .tab-header .inner .tab-scroller-wrap .tab-items {
@@ -1235,7 +1235,7 @@ body {
 }
 @media screen and (min-width: 769px) {
   .speaker-wrap .tab-header .inner .tab-scroller-wrap .tab-items li {
-    width: 237px;
+    width: 196px;
     font-size: 20px;
   }
 }
