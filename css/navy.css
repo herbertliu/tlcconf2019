@@ -842,12 +842,14 @@ body {
   #intro-user-wrap .intro-user-item {
     width: 240px;
     margin: 20px;
+    height: 280px;
   }
 }
 #intro-user-wrap .intro-user-item img {
   width: 80px;
   height: 80px;
   border-radius: 50%;
+  object-fit: cover;
 }
 @media screen and (min-width: 769px) {
   #intro-user-wrap .intro-user-item img {
