@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://feflowjs.org/zh-cn/index.html</loc>
+    
+    <lastmod>2019-04-28T06:15:14.213Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://feflowjs.org/index.html</loc>
+    
+    <lastmod>2019-04-28T06:14:59.173Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://feflowjs.org/zh-cn/subject/index.html</loc>
     
     <lastmod>2019-04-16T12:31:29.508Z</lastmod>
@@ -17,13 +31,6 @@
   
   <url>
     <loc>https://feflowjs.org/zh-cn/schedule/index.html</loc>
-    
-    <lastmod>2019-04-16T12:31:29.508Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://feflowjs.org/zh-cn/index.html</loc>
     
     <lastmod>2019-04-16T12:31:29.508Z</lastmod>
     
@@ -68,13 +75,6 @@
     <loc>https://feflowjs.org/schedules/index.html</loc>
     
     <lastmod>2019-04-16T12:31:29.267Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://feflowjs.org/index.html</loc>
-    
-    <lastmod>2019-04-16T12:31:29.266Z</lastmod>
     
   </url>
   
