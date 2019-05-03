@@ -336,11 +336,12 @@
                     if (subjectInfo.items[i].speakers[j].number === number) {
                         speakerItem = subjectInfo.items[i].speakers[j];
                         speakerItem.branchName = subjectInfo.items[i].title;
+                        speakerItem.intro = subjectInfo.items[i].intro.replace(/\n/g, '<br/>');
                     }
                 }
             }
 
-            var contentTpl = '<div class="base-info"> <div> <div class="title">演讲：{{speakerItem.topic}}</div> <div class="author">{{speakerItem.name}} | {{speakerItem.brief}}</div> </div> <div class="logo-url"> <img src="{{speakerItem.avatar}}" /> </div> </div> <div class="topic-detail"> <p>{{speakerItem.intro}}</p> </div> <div class="conf-info"> <div class="location"> <i></i> <div> <p class="key">地点</p> <p class="value">{{speakerItem.location}}</p> </div> </div> <div class="time"> <i></i> <div> <p class="key">时间</p> <p class="value">{{speakerItem.time}}</p> </div> </div> <div class="branch"> <i></i> <div> <p class="key">所属会场</p> <p class="value">{{speakerItem.branchName}}</p> </div> </div> </div>'
+            var contentTpl = '<div class="base-info"> <div> <div class="title">演讲：{{speakerItem.topic}}</div> <div class="author">{{speakerItem.name}} | {{speakerItem.brief}}</div> </div> <div class="logo-url"> <img src="{{speakerItem.avatar}}" /> </div> </div> <div class="topic-detail"> <p>{{speakerItem.intro | raw}}</p> </div> <div class="conf-info"> <div class="location"> <i></i> <div> <p class="key">地点</p> <p class="value">{{speakerItem.location}}</p> </div> </div> <div class="time"> <i></i> <div> <p class="key">时间</p> <p class="value">{{speakerItem.time}}</p> </div> </div> <div class="branch"> <i></i> <div> <p class="key">所属会场</p> <p class="value">{{speakerItem.branchName}}</p> </div> </div> </div>'
             var contentOutput = swig.render(contentTpl, {
                 locals: {
                     speakerItem: speakerItem
