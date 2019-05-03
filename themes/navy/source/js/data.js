@@ -336,7 +336,9 @@
                     if (subjectInfo.items[i].speakers[j].number === number) {
                         speakerItem = subjectInfo.items[i].speakers[j];
                         speakerItem.branchName = subjectInfo.items[i].title;
-                        speakerItem.intro = speakerItem.intro.replace(/\n/g, '<br/>');
+                        if (speakerItem.intro) {
+                            speakerItem.intro = speakerItem.intro.replace(/\n/g, '<br/>');
+                        }
                     }
                 }
             }
