@@ -15,16 +15,6 @@
     </div>
   </div>
 </div>
-
-<div id="gray-content-wrap">
-  <div class="wrapper">
-    <div class="inner">
-      <div id="subject-wrap">
-
-      </div>
-    </div>
-  </div>
-</div>
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">
@@ -46,6 +36,15 @@
 
         </ul>
         <div class="view-all"><a href="/speakers/">查看全部</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="gray-content-wrap">
+  <div class="wrapper">
+    <div class="inner">
+      <div id="subject-wrap">
+
       </div>
     </div>
   </div>
