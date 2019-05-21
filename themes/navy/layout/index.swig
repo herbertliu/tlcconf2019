@@ -11,13 +11,6 @@
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">
-      {{ page.content }}
-    </div>
-  </div>
-</div>
-<div id="content-wrap">
-  <div class="wrapper">
-    <div class="inner">
       <div id="intro-user-wrap">
         <div class="publisher-title"></div>
         <ul id="publisher-items">
@@ -37,6 +30,13 @@
         </ul>
         <div class="view-all"><a href="/speakers/">查看全部</a></div>
       </div>
+    </div>
+  </div>
+</div>
+<div id="content-wrap">
+  <div class="wrapper">
+    <div class="inner">
+      {{ page.content }}
     </div>
   </div>
 </div>
