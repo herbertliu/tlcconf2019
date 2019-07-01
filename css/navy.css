@@ -977,6 +977,9 @@ body {
     height: 67px;
   }
 }
+#partner-wrap .host-title {
+  margin-bottom: 20px;
+}
 #partner-wrap .partner-item {
   display: inline-block;
 }
