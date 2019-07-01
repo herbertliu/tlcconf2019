@@ -978,7 +978,10 @@ body {
   }
 }
 #partner-wrap .host-title {
-  margin-bottom: 20px;
+  margin: 20px 0;
+}
+#partner-wrap .host-title img {
+  width: 100%;
 }
 #partner-wrap .partner-item {
   display: inline-block;
