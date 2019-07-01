@@ -983,6 +983,19 @@ body {
 #partner-wrap .host-title img {
   width: 100%;
 }
+#partner-wrap .sponsor-items {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
 #partner-wrap .partner-item {
   display: inline-block;
 }
