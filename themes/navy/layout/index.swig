@@ -78,7 +78,7 @@
       <div id="partner-wrap">
         <div class="partner-title"></div>
         <div class="host-title"><img src="https://qpic.url.cn/feeds_pic/Q3auHgzwzM5bHwSic5gQcJJqeOm8xHsD1w8ia4AeTvTMdnzfyt5Xnexw/" /></div>
-        <ul class="sponsor-items>
+        <ul class="sponsor-items">
             <li><img src="https://qpic.url.cn/feeds_pic/ajNVdqHZLLABq3wmyibMG9jR9FIlOy5Xvr2sDcickOibtTMYht5G6uEDA/"></li>
         </ul>
         <div class="host-title"><img src="https://qpic.url.cn/feeds_pic/ajNVdqHZLLCYrfUE4h16jckTtxrOot5lSG5v3zxCW4c9xoShE7kqMg/"></div>
