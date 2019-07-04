@@ -101,7 +101,7 @@
     };
 
     var renderPartner = function(sponsorInfo) {
-        var sponsorTpl = '{% for item in sponsorItems %}  <li class="partner-item"><img src="{{ item.logo }}"></li>  {% endfor %}'
+        var sponsorTpl = '{% for item in sponsorItems %}  <li class="partner-item"><a href="{{ item.link }}" target="_blank"><img src="{{ item.logo }}"></a></li>  {% endfor %}'
         var sponsorOutput = swig.render(sponsorTpl, {
             filename: '/sponsorTpl',
             locals: {
