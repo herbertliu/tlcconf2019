@@ -80,7 +80,7 @@
         <div class="host-title"><img src="https://qpic.url.cn/feeds_pic/Q3auHgzwzM5bHwSic5gQcJJqeOm8xHsD1w8ia4AeTvTMdnzfyt5Xnexw/" /></div>
         <ul class="sponsor-items">
             <li class="partner-item">
-                <a href="https://cloud.tencent.com/" target="_blank">
+                <a href="https://cloud.tencent.com/solution/video" target="_blank">
                     <img src="https://qpic.url.cn/feeds_pic/ajNVdqHZLLABq3wmyibMG9jR9FIlOy5Xvr2sDcickOibtTMYht5G6uEDA/">
                 </a>
             </li>
