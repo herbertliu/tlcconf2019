@@ -2,135 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://2019.tlc.ivweb.io/index.html</loc>
-    
-    <lastmod>2019-07-01T10:48:58.589Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2019.tlc.ivweb.io/zh-cn/index.html</loc>
-    
-    <lastmod>2019-05-03T03:05:22.255Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://2019.tlc.ivweb.io/zh-cn/subject/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.508Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.449Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/zh-cn/speaker/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.508Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.449Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/zh-cn/schedule/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.508Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.449Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/zh-cn/apply/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.507Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.449Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2019.tlc.ivweb.io/zh-cn/index.html</loc>
+    
+    <lastmod>2019-08-29T08:48:33.449Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/themes/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.268Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.015Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/subjects/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.268Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.015Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/speakers/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.268Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.015Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/publisher/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.267Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.014Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/schedules/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.267Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.014Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2019.tlc.ivweb.io/index.html</loc>
+    
+    <lastmod>2019-08-29T08:48:33.013Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/detail/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.263Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.009Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/apply/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2019.tlc.ivweb.io/about/index.html</loc>
-    
-    <lastmod>2019-04-16T12:31:29.262Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2019.tlc.ivweb.io/news/2016/02/28/hexo-3-2-released/</loc>
-    
-    <lastmod>2019-04-16T12:31:29.262Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://2019.tlc.ivweb.io/news/2015/03/05/hexo-3-0-released/</loc>
-    
-    <lastmod>2019-04-16T12:31:29.262Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.009Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/news/2015/02/27/new-documentation-and-registry/</loc>
     
-    <lastmod>2019-04-16T12:31:29.262Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.008Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://2019.tlc.ivweb.io/news/2014/07/13/hexo-2-8-released/</loc>
+    <loc>https://2019.tlc.ivweb.io/about/index.html</loc>
     
-    <lastmod>2019-04-16T12:31:29.256Z</lastmod>
+    <lastmod>2019-08-29T08:48:33.008Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2019.tlc.ivweb.io/news/2016/02/28/hexo-3-2-released/</loc>
+    
+    <lastmod>2019-08-29T08:48:33.008Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2019.tlc.ivweb.io/news/2015/03/05/hexo-3-0-released/</loc>
+    
+    <lastmod>2019-08-29T08:48:33.008Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://2019.tlc.ivweb.io/news/2014/06/14/hexo-2-7-released/</loc>
     
-    <lastmod>2019-04-16T12:31:29.256Z</lastmod>
+    <lastmod>2019-08-29T08:48:32.999Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://2019.tlc.ivweb.io/news/2014/07/13/hexo-2-8-released/</loc>
+    
+    <lastmod>2019-08-29T08:48:32.999Z</lastmod>
     
   </url>
   
