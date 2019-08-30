@@ -9,7 +9,7 @@
         <a href="https://ke.qq.com/course/436773" class="buy-ticket" target="_blank"><img src="https://qpic.url.cn/feeds_pic/Q3auHgzwzM4wL3ExSk73PJ1A9Wd0xbd2bnyWH9ibycFjFO84m5HEiccA/"></a>
       </div>
       <div id="resources">
-        <a href="https://ivweb.io/article.html?_id=100422" target="_blank">精彩回顾</a><a href="https://github.com/iv-web/ppts" target="_blank">讲师PPT</a><a href="https://ke.qq.com/course/328075?tuin=c5418f3a" target="_blank">视频回放</a>
+        <a href="https://ivweb.io/article.html?_id=100422" target="_blank">精彩回顾</a><a href="https://github.com/iv-web/ppts" target="_blank">讲师PPT</a><a href="https://ke.qq.com/course/436773" target="_blank">视频回放</a>
       </div>
     </div>
   </div>
